@@ -15,3 +15,17 @@ git config --global user.email "myGithubAccountEmail@email.com"
 git config --global user.email
 
 gh auth login
+
+git clone https://github.com/annabushsoftware/SetupScripts.git
+
+git status
+
+git commit -am "Did some stuff"
+
+git push
+
+brew install --cask hammerspoon
+
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+
