@@ -1,0 +1,17 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+brew --version
+
+brew install gh	
+
+git --version
+
+git config --global user.name "My Name"
+
+git config --global user.name
+
+git config --global user.email "myGithubAccountEmail@email.com"
+
+git config --global user.email
+
+gh auth login
